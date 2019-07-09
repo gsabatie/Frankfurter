@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import Frankfurter
+//import Frankfurter
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {
