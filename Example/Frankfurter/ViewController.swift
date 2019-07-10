@@ -7,11 +7,16 @@
 //
 
 import UIKit
+import Frankfurter
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let f = FrankFurter()
+//        f.latest(from: nil, to: nil) { (converter:CurrencyConverter?),<#arg#>  in
+//            
+//        }
         // Do any additional setup after loading the view, typically from a nib.
     }
 
